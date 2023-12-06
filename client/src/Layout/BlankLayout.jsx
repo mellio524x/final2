@@ -24,13 +24,6 @@ const BlankLayout = () => {
           >
             Log In
           </Link>
-          {/* Use Link component */}
-          <Link
-            to="/EventPage"
-            className="w-auto py-2 text-black mt-5 mx-5   hover:text-orange-700  select-none "
-          >
-            Event Page
-          </Link>
         </div>
       </div>
 
